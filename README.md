@@ -18,13 +18,10 @@ Advance Algorithms subject lab tasks sem 5.
 2.Horspool_Algo
 
 ## Lab 6
-1.Naive String Matching
-2.Horspool_Algo
-
-## Lab 6
-1. Closest Pair of Points
-2. Line segment intersection
-
+1. Naive String Matching
+2. Horspool_Algo
+3. Sum of Subset reduces to 0/1 Knapsack
+   
 ## Lab 7
 1.Rabin_Karp
 
