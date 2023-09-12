@@ -21,6 +21,9 @@ Advance Algorithms subject lab tasks sem 5.
 1. Naive String Matching
 2. Horspool_Algo
 3. Sum of Subset reduces to 0/1 Knapsack
+
+## Lab 6
+1.Sum of Subset reduces to 0/1 Knapsack
    
 ## Lab 7
 1.Rabin_Karp
