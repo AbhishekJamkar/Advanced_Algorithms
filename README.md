@@ -18,6 +18,10 @@ Advance Algorithms subject lab tasks sem 5.
 2.Horspool_Algo
 
 ## Lab 6
+1.Naive String Matching
+2.Horspool_Algo
+
+## Lab 6
 1. Closest Pair of Points
 2. Line segment intersection
 
