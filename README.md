@@ -14,8 +14,8 @@ Advance Algorithms subject lab tasks sem 5.
 1. Karger MinCut
 
 ## Lab 5
-1.Horspool_Algo
-2.Naive String Matching
+1.Naive String Matching
+2.Horspool_Algo
 
 ## Lab 6
 1. Closest Pair of Points
